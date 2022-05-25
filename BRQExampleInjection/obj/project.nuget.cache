@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0E2q2Dbb5RH16nsaTjy2zkKfqpfFnnE14RaFo6uplOtjDtUJAUOWkXvpnGEuNjRIILRH/06PP+eNGnNKydsSsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rodolfo.ferreira\\source\\repos\\BRQExample\\BRQExampleInjection\\BRQExampleIoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodolfo.ferreira\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

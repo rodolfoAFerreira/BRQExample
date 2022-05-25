@@ -1,0 +1,17 @@
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\bin\Debug\net5.0\BRQExampleInjection.deps.json
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\bin\Debug\net5.0\BRQExampleInjection.dll
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\bin\Debug\net5.0\ref\BRQExampleInjection.dll
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\bin\Debug\net5.0\BRQExampleInjection.pdb
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\bin\Debug\net5.0\BRQExampleDomain.dll
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\bin\Debug\net5.0\BRQExampleDomain.pdb
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\obj\Debug\net5.0\BRQExampleInjection.csproj.AssemblyReference.cache
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\obj\Debug\net5.0\BRQExampleInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\obj\Debug\net5.0\BRQExampleInjection.AssemblyInfoInputs.cache
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\obj\Debug\net5.0\BRQExampleInjection.AssemblyInfo.cs
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\obj\Debug\net5.0\BRQExampleInjection.csproj.CoreCompileInputs.cache
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\obj\Debug\net5.0\BRQExampleInjection.csproj.CopyComplete
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\obj\Debug\net5.0\BRQExampleInjection.dll
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\obj\Debug\net5.0\ref\BRQExampleInjection.dll
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\obj\Debug\net5.0\BRQExampleInjection.pdb
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\bin\Debug\net5.0\BRQExampleApplication.dll
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\bin\Debug\net5.0\BRQExampleApplication.pdb

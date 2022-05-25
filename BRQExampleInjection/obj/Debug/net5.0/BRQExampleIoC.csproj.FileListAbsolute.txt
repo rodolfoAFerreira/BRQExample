@@ -1,0 +1,17 @@
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\bin\Debug\net5.0\BRQExampleIoC.deps.json
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\bin\Debug\net5.0\BRQExampleIoC.dll
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\bin\Debug\net5.0\ref\BRQExampleIoC.dll
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\bin\Debug\net5.0\BRQExampleIoC.pdb
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\bin\Debug\net5.0\BRQExampleApplication.dll
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\bin\Debug\net5.0\BRQExampleDomain.dll
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\bin\Debug\net5.0\BRQExampleApplication.pdb
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\bin\Debug\net5.0\BRQExampleDomain.pdb
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\obj\Debug\net5.0\BRQExampleIoC.csproj.AssemblyReference.cache
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\obj\Debug\net5.0\BRQExampleIoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\obj\Debug\net5.0\BRQExampleIoC.AssemblyInfoInputs.cache
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\obj\Debug\net5.0\BRQExampleIoC.AssemblyInfo.cs
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\obj\Debug\net5.0\BRQExampleIoC.csproj.CoreCompileInputs.cache
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\obj\Debug\net5.0\BRQExampleIoC.csproj.CopyComplete
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\obj\Debug\net5.0\BRQExampleIoC.dll
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\obj\Debug\net5.0\ref\BRQExampleIoC.dll
+C:\Users\rodolfo.ferreira\source\repos\BRQExample\BRQExampleInjection\obj\Debug\net5.0\BRQExampleIoC.pdb

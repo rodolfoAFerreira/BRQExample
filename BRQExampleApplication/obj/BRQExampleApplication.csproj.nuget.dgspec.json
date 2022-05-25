@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rodolfo.ferreira\\source\\repos\\BRQExample\\BRQExampleApplication\\BRQExampleApplication.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rodolfo.ferreira\\source\\repos\\BRQExample\\BRQExampleApplication\\BRQExampleApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rodolfo.ferreira\\source\\repos\\BRQExample\\BRQExampleApplication\\BRQExampleApplication.csproj",
+        "projectName": "BRQExampleApplication",
+        "projectPath": "C:\\Users\\rodolfo.ferreira\\source\\repos\\BRQExample\\BRQExampleApplication\\BRQExampleApplication.csproj",
+        "packagesPath": "C:\\Users\\rodolfo.ferreira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rodolfo.ferreira\\source\\repos\\BRQExample\\BRQExampleApplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rodolfo.ferreira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://www.aplicacao.dn.senac.br/Bibliotecas.Net/nuget/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/SenacDN/_packaging/BibliotecasSenac/nuget/v3/index.json": {},
+          "https://senacdn.pkgs.visualstudio.com/_packaging/BibliotecasSenac/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\rodolfo.ferreira\\source\\repos\\BRQExample\\BRQExampleDomain\\BRQExampleDomain.csproj": {
+                "projectPath": "C:\\Users\\rodolfo.ferreira\\source\\repos\\BRQExample\\BRQExampleDomain\\BRQExampleDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rodolfo.ferreira\\source\\repos\\BRQExample\\BRQExampleDomain\\BRQExampleDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rodolfo.ferreira\\source\\repos\\BRQExample\\BRQExampleDomain\\BRQExampleDomain.csproj",
+        "projectName": "BRQExampleDomain",
+        "projectPath": "C:\\Users\\rodolfo.ferreira\\source\\repos\\BRQExample\\BRQExampleDomain\\BRQExampleDomain.csproj",
+        "packagesPath": "C:\\Users\\rodolfo.ferreira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rodolfo.ferreira\\source\\repos\\BRQExample\\BRQExampleDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rodolfo.ferreira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://www.aplicacao.dn.senac.br/Bibliotecas.Net/nuget/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/SenacDN/_packaging/BibliotecasSenac/nuget/v3/index.json": {},
+          "https://senacdn.pkgs.visualstudio.com/_packaging/BibliotecasSenac/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

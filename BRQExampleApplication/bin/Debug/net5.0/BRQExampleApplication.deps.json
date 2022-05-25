@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BRQExampleApplication/1.0.0": {
+        "dependencies": {
+          "BRQExampleDomain": "1.0.0"
+        },
+        "runtime": {
+          "BRQExampleApplication.dll": {}
+        }
+      },
+      "BRQExampleDomain/1.0.0": {
+        "runtime": {
+          "BRQExampleDomain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BRQExampleApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BRQExampleDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

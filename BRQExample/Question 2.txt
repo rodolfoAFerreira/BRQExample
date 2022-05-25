@@ -1,0 +1,2 @@
+﻿Basicaly, i think is better create the extension method PEP for category, because is not necessecery modify class, only extension.
+But is possible do too by heritage
